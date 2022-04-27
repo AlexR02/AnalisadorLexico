@@ -1,4 +1,4 @@
-# Analisador Léxico Para C em Python
+# Analisador Léxico em Python para C
 
 ## Compilação
 
